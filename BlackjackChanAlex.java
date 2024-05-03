@@ -7,7 +7,7 @@ import java.io.PrintWriter;
 /*
  * Name: Alex Chan
  * Date: May 8, 2023
- * Teacher: Mr Chu
+ * Teacher: Awesome CS Teacher
  * Short Desc: 
  * -----Welcome to Blackjack!-----
  * The objective of the game is to draw cards totaling as close as 21, without going over.
